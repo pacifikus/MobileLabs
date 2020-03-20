@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Gallons">Gallons:</string>
+    <string name="Liters">Liters:</string>
+    <string name="OK">OK</string>
+    <string name="Help">Help</string>
+    <string name="Hint">Enter liters</string>
+</resources>
